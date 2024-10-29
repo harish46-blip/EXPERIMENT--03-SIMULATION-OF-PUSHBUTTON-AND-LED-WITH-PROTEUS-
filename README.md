@@ -174,11 +174,6 @@ AFTER:
 
 ![Screenshot (153)](https://github.com/charumathiramesh/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120204455/4a1ff47f-0d88-43a8-a51e-1af4f812ac30)
 
-
-## Proteus layout(Add pdf screen shot of circuit here)
- 
- ![Screenshot (155)](https://github.com/charumathiramesh/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120204455/e9e19f45-f6cd-4135-a5ef-0ce4bb11afbc)
-
  
  
 ## Result :
