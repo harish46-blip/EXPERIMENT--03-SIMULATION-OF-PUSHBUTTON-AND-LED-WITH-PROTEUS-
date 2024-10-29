@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME : MOULISHWAR G
-REG NO : 2305001020
+NAME : HARISH GOWTHAM E
+REG NO : 2305002009
 ```
 ```C
 #include "main.h"
@@ -183,5 +183,4 @@ AFTER:
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
-
 
